@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WorkoutMaker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# workout-maker
+>>>>>>> 1a9fb4ca593befa41dd2f66d0efbc71573de3062
